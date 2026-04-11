@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ceetahSG
+- 👋 Hi, I’m Sajim
 - 👀 I’m interested in learning new things
 - 💞️ I’m looking to collaborate on something adventurous
 - 📫 How to reach me: https://www.linkedin.com/in/md-sajim-452195244/
