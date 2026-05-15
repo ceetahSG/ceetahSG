@@ -1,11 +1,47 @@
-- 👋 Hi, I’m Sajim
-- 👀 I’m interested in learning new things
-- 💞️ I’m looking to collaborate on something adventurous
-- 📫 How to reach me: https://www.linkedin.com/in/md-sajim-452195244/
-- 😄 Pronouns: HE
-- ⚡ Fun fact: peace was never an option
+# Hi there, I'm **chetah**! 🐆
 
-<!---
-ceetahSG/ceetahSG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=37BBE2&width=700&lines=Open+Source+Contributor;C%2B%2B%2C+Java+%26+Python+Enthusiast;Let%27s+build+something+awesome+together!)
+
+
+## 👋 About Me
+
+- 🌱 Open source enthusiast & contributor!
+- 🎯 Passionate about **C++**, **Java**, and **Python** programming.
+- 🌍 Love making code that helps people.
+- 📬 Always ready to collaborate on cool projects.
+- 😄 Fun fact: My coding energy runs on coffee and curiosity!
+
+## 🛠️ Languages & Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%93-brightgreen?style=for-the-badge)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-md--sajim--452195244-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-sajim-452195244/)
+
+<!-- Add more socials or contacts here if needed -->
+
+---
+
+## 🤩 Github Stats
+
+![Chetah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceetahSG&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceetahSG&langs_count=5&hide=css,html&theme=tokyonight)
+
+---
+
+## ✨ Fun Zone
+
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+<!-- Add a fun GIF if you like! -->
+<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300"/>
+
+---
+
+_Thanks for visiting! Let's build something amazing! 🚀_
