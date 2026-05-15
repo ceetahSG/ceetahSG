@@ -1,4 +1,4 @@
-# Hi there, I'm **ceetah**! 🐆
+# Hi there, I'm **cheetah**! 🐆
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=37BBE2&center=true&vCenter=true&width=800&lines=Open+Source+Contributor;C%2B%2B+%7C+Java+%7C+Python;Always+learning%2C+always+shipping;Let%27s+build+something+awesome+together!" />
