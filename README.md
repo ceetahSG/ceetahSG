@@ -2,7 +2,6 @@
 
 ![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=37BBE2&width=700&lines=Open+Source+Contributor;C%2B%2B%2C+Java+%26+Python+Enthusiast;Let%27s+build+something+awesome+together!)
 
-
 ## 👋 About Me
 
 - 🌱 Open source enthusiast & contributor!
@@ -20,14 +19,6 @@
 
 ---
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-md--sajim--452195244-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-sajim-452195244/)
-
-<!-- Add more socials or contacts here if needed -->
-
----
-
 ## 🤩 Github Stats
 
 ![Chetah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceetahSG&show_icons=true&theme=tokyonight)
@@ -35,12 +26,17 @@
 
 ---
 
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-md--sajim--452195244-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-sajim-452195244/)
+
+---
+
 ## ✨ Fun Zone
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
-<!-- Add a fun GIF if you like! -->
-<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300"/>
+<img src="https://media.tenor.com/4dK2mUqgKFgAAAAC/funny-programming.gif" width="320"/>
 
 ---
 
