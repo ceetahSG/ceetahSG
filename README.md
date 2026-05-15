@@ -1,34 +1,48 @@
 # Hi there, I'm **chetah**! 🐆
 
-![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=37BBE2&width=700&lines=Open+Source+Contributor;C%2B%2B%2C+Java+%26+Python+Enthusiast;Let%27s+build+something+awesome+together!)
-
-## 👋 About Me
-
-- 🌱 Open source enthusiast & contributor!
-- 🎯 Passionate about **C++**, **Java**, and **Python** programming.
-- 🌍 Love making code that helps people.
-- 📬 Always ready to collaborate on cool projects.
-- 😄 Fun fact: My coding energy runs on coffee and curiosity!
-
-## 🛠️ Languages & Tools
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%93-brightgreen?style=for-the-badge)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=37BBE2&center=true&vCenter=true&width=800&lines=Open+Source+Contributor;C%2B%2B+%7C+Java+%7C+Python;Always+learning%2C+always+shipping;Let%27s+build+something+awesome+together!" />
+</p>
 
 ---
 
-## 🤩 Github Stats
+## 👋 About Me
 
-![Chetah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceetahSG&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceetahSG&langs_count=5&hide=css,html&theme=tokyonight)
+- 🌱 Open source enthusiast & contributor
+- 🎯 Mainly working with **C++**, **Java**, and **Python**
+- 🤝 Open to collaborating on interesting open-source projects
+- 😄 Fun fact: My coding energy runs on coffee and curiosity
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-✓-brightgreen?style=for-the-badge" />
+</p>
+
+---
+
+<!-- TEMP fallback (optional): uncomment these if you want fallback to public endpoint sometimes -->
+<!--
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ceetahSG&show_icons=true&theme=github_dark&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceetahSG&layout=compact&theme=github_dark&cache_seconds=86400" />
+</p>
+-->
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-md--sajim--452195244-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-sajim-452195244/)
+<p>
+  <a href="https://www.linkedin.com/in/md-sajim-452195244/">
+    <img src="https://img.shields.io/badge/LinkedIn-md--sajim--452195244-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -36,8 +50,10 @@
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
-<img src="https://media.tenor.com/4dK2mUqgKFgAAAAC/funny-programming.gif" width="320"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=37BBE2&center=true&vCenter=true&width=700&lines=Keep+it+simple.;Make+it+work.;Make+it+right.;Make+it+fast.+(sometimes)" />
+</p>
 
 ---
 
-_Thanks for visiting! Let's build something amazing! 🚀_
+_Thanks for visiting! Let’s build something amazing. 🚀_
